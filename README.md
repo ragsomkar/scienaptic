@@ -1,0 +1,2 @@
+# scienaptic
+assignment code
